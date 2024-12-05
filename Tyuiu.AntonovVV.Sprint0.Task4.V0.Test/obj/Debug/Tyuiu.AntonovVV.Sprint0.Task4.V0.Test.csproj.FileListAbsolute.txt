@@ -1,0 +1,17 @@
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\bin\Debug\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\bin\Debug\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test.pdb
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\bin\Debug\Tyuiu.AntonovVV.Sprint0.Task4.V0.Lib.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\bin\Debug\Tyuiu.AntonovVV.Sprint0.Task4.V0.Lib.pdb
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\obj\Debug\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test.csproj.AssemblyReference.cache
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\obj\Debug\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test.csproj.CoreCompileInputs.cache
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\obj\Debug\Tyuiu.An.22953D45.Up2Date
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\obj\Debug\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test\obj\Debug\Tyuiu.AntonovVV.Sprint0.Task4.V0.Test.pdb

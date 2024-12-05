@@ -1,0 +1,6 @@
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task2.V0.Lib\bin\Debug\Tyuiu.AntonovVV.Sprint0.Task2.V0.Lib.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task2.V0.Lib\bin\Debug\Tyuiu.AntonovVV.Sprint0.Task2.V0.Lib.pdb
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task2.V0.Lib\obj\Debug\Tyuiu.AntonovVV.Sprint0.Task2.V0.Lib.csproj.AssemblyReference.cache
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task2.V0.Lib\obj\Debug\Tyuiu.AntonovVV.Sprint0.Task2.V0.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task2.V0.Lib\obj\Debug\Tyuiu.AntonovVV.Sprint0.Task2.V0.Lib.dll
+C:\Users\Василий\source\repos\Tyuiu.AntonovVV.Sprint0\Tyuiu.AntonovVV.Sprint0.Task2.V0.Lib\obj\Debug\Tyuiu.AntonovVV.Sprint0.Task2.V0.Lib.pdb
